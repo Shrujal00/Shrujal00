@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shrujal00
 - 👀 I’m interested in watching anime, learn coding, play games, listen music, make friends
 - 🌱 I’m currently learning Python
-- 📫 How to reach me gcfk DISCORD
 - 😄 Pronouns: he/him
 
 <!---
