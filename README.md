@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrujal00
 - 👀 I’m interested in watching anime, learn coding, play games, listen music, make friends
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Development
 - 😄 Pronouns: he/him
 
 <!---
